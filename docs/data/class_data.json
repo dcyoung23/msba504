@@ -1,0 +1,28 @@
+{
+  "course":  {
+            "code": "MSBA 504",
+            "title": "Data Management",
+            "school": "University of San Diego",
+            "term": "Fall 2025",
+            "units": "2",
+            "location": "KCBE-328",
+            "days_times": "Tue 4:00PM - 6:50PM",
+            "dates": "9-Sep-2025 - 11-Nov-2025",
+            "office_hours": "Tue 3:00-4:00PM in TBD",
+            "canvas": "https://sandiego.instructure.com/courses/20572",
+            "gradescope": "https://www.gradescope.com/courses/1077347"
+        },
+    "instructor": {
+            "instructor": "Chris Young, MBA",
+            "email": "dcyoung@sandiego.edu",
+            "website": "https://www.linkedin.com/in/dcyoung23/",
+            "student_hours": "https://calendly.com/professor-cyoung/student-hours"
+        },
+    "content": {
+            "Introduction_Slido": "https://app.sli.do/event/3tvBouiN8rDgGxZARz7sGs",
+            "ER_Models_Slido": "https://app.sli.do/event/qLBEqjiX6LsaK8Xs5gCxTR",
+            "Create_Conceptual_ERD": "demos/01_create_conceptual_erd/",
+            "Quiz_1": "86784",
+            "HW1_Create_ERD": "313552"
+        }
+    }
