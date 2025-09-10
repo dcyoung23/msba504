@@ -11,8 +11,6 @@ nav:
   - Resources:
     - Demos:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
-      - Implement Conceptual ERD: demos/02_implement_erd.md
-      - Create Database and ERD: demos/03_create_database_erd.md
 theme:
   name: material
   logo: assets/images/logo.png
