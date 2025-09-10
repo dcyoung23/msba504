@@ -7,10 +7,10 @@
 
 ### Class Agenda
 
-- Introduction Slides - [Join the Slido]({{ content_links().Introduction_Slido }})
+- [Introduction Slides]({{ content_links().Introduction }})
 - Course Website Tour
 - `[5 min]` Break **Optional**
-- ER Models Slides - [Join the Slido]({{ content_links().ER_Models_Slido }})
+- [ER Models Slides]({{ content_links().ER_Models }})
 - [Create a Conceptual ERD Demo]({{content_links().Create_Conceptual_ERD | url }})
 
 ### Task List
