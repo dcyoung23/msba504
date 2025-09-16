@@ -15,8 +15,8 @@
 
 ### Task List
 
+- [ ] **Optional** Reading: Chapters 1, 2, 4
 - [x] **Submit** names for Assignment groups on Canvas
-- [x] **Optional** Reading: Chapters 1, 2, 4
 - [x] **Complete** and **Submit** [Quiz 1]({{ content_links().Quiz_1 }})
 - [x] **Complete** and **Submit** [HW1 Create ERD]({{ content_links().HW1_Create_ERD }})
  

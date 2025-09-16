@@ -8,9 +8,11 @@ nav:
   - Assignments: assignments.md
   - Notes:
     - Week 1 - Intro / ER Models: notes/week_1.md
+    - Week 2 - Relational Databases: notes/week_2.md
   - Resources:
     - Demos:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
+      - Implement Conceptual ERD: demos/02_implement_erd.md
 theme:
   name: material
   logo: assets/images/logo.png

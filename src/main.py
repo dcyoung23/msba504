@@ -1,7 +1,7 @@
 import os
 import json
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 from mkdocs.utils import get_relative_url
 
 def define_env(env):
@@ -29,6 +29,8 @@ def define_env(env):
             if "Quiz" in k:
                 content_links[k] = f"{canvas_base}/quizzes/{v}"
             elif "HW" in k:
+                content_links[k] = f"{canvas_base}/assignments/{v}"
+            elif "CP" in k:
                 content_links[k] = f"{canvas_base}/assignments/{v}"
             else:
                 content_links[k] = v
@@ -66,14 +68,14 @@ def define_env(env):
             current_date = datetime.strptime(row['date'], "%Y-%m-%d")
             days_since = (current_date - first_date).days
             week_no = offset_week + (first_day + days_since) // 7
-            # Always link to Notes if Week 1 or now >= first date of week
-            if week_no == 1 or datetime.now() >= first_date_week:
+            # Always link to Notes if Week 1 or week has started
+            #print(week_no, prev_week_no, first_date_week)
+            if week_no == 1 or datetime.now() >= first_date_week + timedelta(days=7) and week_no != prev_week_no:
                 notes_link = f'<a href="notes/week_{week_no}">Week {week_no}</a>'
             else:
                 notes_link = f'Week {week_no}'
             if week_no != prev_week_no:
                 first_date_week = current_date
-                #print(first_date_week)
                 if prev_week_no is not None:
                     output.append("</tbody></table></div>")
                 output.append(f"""
