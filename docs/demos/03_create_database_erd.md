@@ -10,8 +10,6 @@ If you prefer the look of QuickDBD diagrams, you can also Import an existing dat
 ## Introduction to MySQL
 MySQL is an open-source relational database management system (RDBMS) developed by a Swedish company, MySQL AB, founded in 1995. Designed to be fast, reliable, and easy to use, MySQL quickly gained popularity as a database for web applications, especially those using the LAMP stack (Linux, Apache, MySQL, PHP/Python/Perl). In 2008, MySQL AB was acquired by Sun Microsystems, which was itself acquired by Oracle Corporation in 2010. Despite concerns about its future under Oracle’s ownership, MySQL has remained a widely used RDBMS, especially for open-source projects and small to medium-sized applications. It supports standard SQL features such as transactions, joins, and stored procedures, and has evolved to include support for advanced features like replication, clustering, and JSON data types.
 
-
-
 In this demo, we will update the `university` tables to use more memory-efficient data types for the text columns based on the following requirements:
 
 * Course titles should allow up to 50 characters.
@@ -24,8 +22,6 @@ In this demo, we will update the `university` tables to use more memory-efficien
 ## Option 1 - Create Database and Reverse Engineer ERD
 
 ### Create a new Database
-Open **MySQL Workbench** and then open your Local instance MySQL Connection. Right/secondary click in the Son it and select Create > Database. Name the Database `university` and click on Save.
-
 Open MySQL Workbench and on the Home screen, click the Local Instance MySQL connection (you may be prompted for your root password). Once connected, complete the following steps:
 
 1. Go to the Navigator panel on the left and click the Schemas tab. 
@@ -138,7 +134,7 @@ These statements will drop all of the tables if they already exist.
     The `CASCADE` parameter in the `DROP TABLE` statement will automatically drop objects that depend on the table but this is another example of SQL functionality that only exists in some relational database systems. MySQL and SQLite do not support this parameter.
 
 ### Create ERD
-Now that the database has been created with all tables and constraints, we can reverse engineer an ERD from the existing schema. From the top menu in MySQL Workbench, select **Database → Reverse Engineer...**. Click **Next** twice to reach the page where you select the schema. Check the box for the `university` schema, then click **Next** two more times. Ensure that all objects are selected, and click **Execute** to run the reverse engineering process. Once it completes, click **Next**, then **Finish**. A new tab will open displaying the EER Diagram (ERD) for your database.
+Now that the database has been created with all tables and constraints, we can reverse engineer an ERD from the existing schema. From the top menu in MySQL Workbench, select **Database → Reverse Engineer...**. The first time you load the Reverse Engineer Database wizard, you will need to select your Local instance connection from the Stored Connection drop-down menu. Then, click **Next** twice to reach the page where you select the schema. Check the box for the `university` schema, then click **Next** two more times. Ensure that all objects are selected, and click **Execute** to run the reverse engineering process. Once it completes, click **Next**, then **Finish**. A new tab will open displaying the EER Diagram (ERD) for your database.
 
 !!! note
 
