@@ -8,7 +8,7 @@
 
 ### Class Agenda
 
-- [Relational Databases Slides]({{ content_links().Relational_Databases }}): Click [here]({{ content_links().Relational_Databases_Slido }}) to join the Slido
+- [Relational Databases Slides]({{ content_links().Relational_Databases }})
 - `[5 min]` Break **Optional**
 - [Implement Conceptual ERD Demo]({{content_links().Implement_Conceptual_ERD | url }})
 
