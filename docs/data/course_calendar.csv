@@ -16,14 +16,14 @@ date,title,label,link
 2025-10-05,Quiz_3,QUIZ
 2025-10-05,HW3_CRUD_Operations,HMWK
 2025-10-07,Intermediate_SQL_1,LECT
-2025-10-07,Jupyter_Getting_Started,DEMO
+2025-10-07,Aggregating_Data_JOINs,DEMO
 2025-10-07,CP3_Intermediate_SQL_1,PART
-2025-10-12,GP1_Create_ERD_Database,PROJ
 2025-10-14,Intermediate_SQL_2,LECT
-2025-10-14,Load_External_Data,DEMO
+2025-10-14,CASE_Custom_JOINs,DEMO
 2025-10-14,CP4_Intermediate_SQL_2,PART
 2025-10-19,Quiz_4,QUIZ
 2025-10-19,HW4_Intermediate_SQL,HMWK
+2025-10-19,GP1_Create_Database_ERD,PROJ
 2025-10-21,Advanced_SQL_1,LECT
 2025-10-21,CP5_Transform_Load_Data,PART
 2025-10-26,GP2_Transform_Load_Data,PROJ

@@ -8,7 +8,7 @@
 
 ### Class Agenda
 
-- [SQL Basics Slides]({{ content_links().SQL_Basics }}): Click [here]({{ content_links().SQL_Basics_Slido }}) to join the Slido
+- [SQL Basics Slides]({{ content_links().SQL_Basics }})
 - `[5 min]` Break **Optional**
 - [CRUD Operations Demo]({{content_links().CRUD_Operations | url }})
 - In Class Time for [CP2 CRUD Operations]({{ content_links().CP2_CRUD_Operations }})

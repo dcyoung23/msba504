@@ -110,7 +110,9 @@ Wait, if you go to the [Mission: Impossible - Dead Reckoning Part One](https://w
 !!! note
     We have not covered SQL JOINS yet so in this demo every query will be a simple SQL statement with only one table.
 
-### Update a movie
+### Question 1
+
+#### Update a movie
 
 Let's update the database and set the year to **2023** and the runtime to **163** for 2h 43m.
 
@@ -132,11 +134,11 @@ WHERE tid = 9603212
 !!! note
     DDL operations will not have any tabular output like DQL operations but you can confirm if the operation ran successfully and how many rows were affected in the section below the grid output.
 
-#### Question 1
-
 Copy and paste the code for the `UPDATE` statement above the provided `SELECT` statement into the `submission.yaml` file for Question 1.
 
-### Insert a rating
+### Question 2
+
+#### Insert a rating
 
 Since Mission Impossible 7 had not come out yet when it was added to the database, let's also add the average rating and votes.
 
@@ -154,11 +156,11 @@ INSERT INTO rating (tid, average, votes)
 VALUES (9603212, 7.6, 311000)
 ```
 
-#### Question 2
-
 Copy and paste the code for the `INSERT INTO` statement above the `SELECT` statement into the `submission.yaml` file for Question 2.
 
-### Find movies using a logical operator
+### Question 3
+
+#### Find movies using a logical operator
 
 Let's search for all movies that start with `Mission: Impossible`.
 
@@ -195,11 +197,11 @@ SET title = 'Mission: Impossible - Dead Reckoning Part One',
 original = 'Mission: Impossible - Dead Reckoning Part One'
 WHERE tid = 9603212
 ```
-#### Question 3
-
 Copy and paste the code for the `UPDATE` statement above the the `SELECT` statement into the `submission.yaml` file for Question 3.
 
-### Delete a movie
+### Question 4
+
+#### Delete/Update a movie
 
 [Mission: Impossible 8](https://www.imdb.com/title/tt9603208) came out in 2025 but I bet they wish they stuck to the original plan and just had them be the same two-part movie. Let's delete that movie from the `title` table.
 
@@ -245,13 +247,13 @@ Here is the output:
 
 ![Query Output 6](../assets/screenshots/04_Query_Output_6.png)
 
-#### Question 4
-
 Copy and paste the code for the `UPDATE` and `SELECT` statement to confirm all updates for the Mission Impossible Reckoning movies into the `submission.yaml` file for Question 4.
 
 Let's wrap up this demo to show how you will frequently use the `ORDER BY` and `LIMIT` clauses for homework questions as well as a variety of common operators.
 
-### Identify movie with top votes
+### Question 5
+
+#### Identify movie with top votes
 
 Many questions in class participation and homework assignments will ask that you order the output either in ascending or descending order then limit the results. Let's practice that now and order all rows in the `rating` table by `votes` in `DESC` order and then combine with `LIMIT` clause to return the top movie.
 
@@ -264,8 +266,6 @@ LIMIT 1
 Here is the output:
 
 ![Query Output 7](../assets/screenshots/04_Query_Output_7.png)
-
-#### Question 5
 
 Copy and paste the code for the `SELECT` statement into the `submission.yaml` file for Question 5.
 

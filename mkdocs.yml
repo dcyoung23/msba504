@@ -11,12 +11,14 @@ nav:
     - Week 2 - Relational Databases: notes/week_2.md
     - Week 3 - Create Database and ERD: notes/week_3.md
     - Week 4 - SQL Basics: notes/week_4.md
+    - Week 5 - Intermediate SQL 1: notes/week_5.md
   - Resources:
     - Demos:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
       - Implement Conceptual ERD: demos/02_implement_erd.md
       - Create Database and ERD: demos/03_create_database_erd.md
       - CRUD Operations: demos/04_crud_operations.md
+      - Aggregating Data and JOINs: demos/05_aggregating_data_joins
 theme:
   name: material
   logo: assets/images/logo.png
@@ -102,3 +104,5 @@ plugins:
   - macros:
       module_name: src/main
   - open-in-new-tab
+  - mkdocs-jupyter:
+      execute: false

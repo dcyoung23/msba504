@@ -28,9 +28,7 @@ def define_env(env):
         for k, v in content_data.items():
             if "Quiz" in k:
                 content_links[k] = f"{canvas_base}/quizzes/{v}"
-            elif "HW" in k:
-                content_links[k] = f"{canvas_base}/assignments/{v}"
-            elif "CP" in k:
+            elif any(x in k for x in ("HW", "CP", "GP")):
                 content_links[k] = f"{canvas_base}/assignments/{v}"
             else:
                 content_links[k] = v
