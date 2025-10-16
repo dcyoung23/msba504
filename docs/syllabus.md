@@ -14,9 +14,7 @@ Databases are the backbone of the digital world, storing the vast majority of gl
 
 ### Instructor Information
 **Instructor**: {{ instructor_info().instructor }}  
-**Email**: {{ instructor_info().email }}  
 **Office Hours**: {{ course_info().office_hours }} 
-
 
 ### Course Learning Outcomes
 At the conclusion of the course, you should be able to:
