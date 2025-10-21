@@ -8,7 +8,7 @@
 
 ### Class Agenda
 
-- [Intermediate SQL 2 Slides]({{ content_links().Intermediate_SQL_2 }}): Click [here]({{ content_links().Intermediate_SQL_Slido }}) to join the Slido
+- [Intermediate SQL 2 Slides]({{ content_links().Intermediate_SQL_2 }})
 - `[5 min]` Break **Optional**
 - [CASE and Custom JOINs Demo]({{content_links().CASE_Custom_JOINs | url }})
 - In Class Time for [CP4 Intermediate SQL 2]({{ content_links().CP4_Intermediate_SQL_2 }})

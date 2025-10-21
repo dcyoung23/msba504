@@ -13,6 +13,7 @@ nav:
     - Week 4 - SQL Basics: notes/week_4.md
     - Week 5 - Intermediate SQL 1: notes/week_5.md
     - Week 6 - Intermediate SQL 2: notes/week_6.md
+    - Week 7 - Advanced SQL 1: notes/week_7.md
   - Resources:
     - Demos:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
@@ -21,6 +22,8 @@ nav:
       - CRUD Operations: demos/04_crud_operations.md
       - Aggregating Data and JOINs: demos/05_aggregating_data_joins
       - CASE and Custom JOINs: demos/06_case_custom_joins
+    - Labs:
+      - Transform and Load Data: labs/07_transform_load_data.md
 theme:
   name: material
   logo: assets/images/logo.png

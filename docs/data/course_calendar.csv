@@ -26,9 +26,10 @@ date,title,label,link
 2025-10-19,GP1_Create_Database_ERD,PROJ
 2025-10-21,Advanced_SQL_1,LECT
 2025-10-21,CP5_Transform_Load_Data,PART
-2025-10-26,GP2_Transform_Load_Data,PROJ
-2025-10-28,Advanced_SQL_2;Other_Database_Concepts,LECT
+2025-10-28,Advanced_SQL_2;Advanced_Database_Concepts,LECT
+2025-10-28,Subquery_CTE_Window_Functions,DEMO
 2025-11-02,Quiz_5,QUIZ
-2025-11-02,HW5_Advanced_SQL,HMWK
+2025-11-02,GP2_Transform_Load_Data,PROJ
 2025-11-04,GP3_Hackathon,PROJ
+2025-11-09,HW5_Advanced_SQL,HMWK
 2025-11-11,Final_Exam,EXAM
