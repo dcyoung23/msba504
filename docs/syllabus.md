@@ -52,6 +52,8 @@ This is a data management class, and we will be utilizing a variety of software 
 * MySQL Workbench 8.0
 * Anaconda Distribution of Python and other tools
 
+<div style="page-break-after: always;"></div>
+
 ## COURSE CONTENT & POLICIES
 
 ### Grade Distribution
@@ -81,6 +83,8 @@ This is a data management class, and we will be utilizing a variety of software 
 | D-             | 60-62.99%       |
 | F              | <60%            |
 
+<div style="page-break-after: always;"></div>
+
 ### Homework
 There are 5 homework assignments consisting of problem-solving and SQL based programming assignments. While you are allowed to use AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
 
@@ -96,6 +100,8 @@ There are 5 class participation assignments that are designed to help you learn 
 !!! note "Class Attendance"
     The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve hands-on practice with database and SQL tools. Regular attendance is very important to your success in this course. 
 
+<div style="page-break-after: always;"></div>
+
 ### Group Project
 There are 3 group project assignments that you will be able to collaborate with 3-5 classmates on a real-world dataset to apply all skills learned in the course, including ER modeling, database design, normalization and data loading, and SQL query construction.
 
@@ -108,7 +114,9 @@ There is a 24-hour grace period for all **homework** assignments with **NO** lat
 ### Regrade Policy
 The intent of the regrade policy is to protect students from serious issues in grading. Email the professor within **72 hours** and provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours). Make sure you confer with your team first on any group completed project and submit one regrade request after your team comes to a consensus.
 
-## COURSE POLICY STATEMENTS
+<div style="page-break-after: always;"></div>
+
+## SCHOOL RESOURCES
 
 ### Academic Honesty Statement
 
