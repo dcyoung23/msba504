@@ -116,7 +116,7 @@ The intent of the regrade policy is to protect students from serious issues in g
 
 <div style="page-break-after: always;"></div>
 
-## SCHOOL RESOURCES
+## UNIVERSITY POLICY STATEMENTS
 
 ### Academic Honesty Statement
 
