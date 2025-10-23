@@ -7,6 +7,7 @@
 
 ![D. Chris Young Profile](assets/images/profile_circle.png){: style="float:left; margin-right:10px; width:150px; height:150px;" }
 <br>
+<br>
 <a href="{{ instructor_info().website }}" class="instructor-link">{{ instructor_info().instructor }}</a>  
 <br>
 <br>
