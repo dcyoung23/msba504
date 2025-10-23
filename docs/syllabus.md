@@ -4,7 +4,7 @@
 ## COURSE OVERVIEW
 
 ### Course Description
-Databases are the backbone of the digital world, storing the vast majority of global data and enabling the seamless operation of most businesses. In this course, you will learn to design and visually represent database structures, and develop practical skills in implementing these designs using relational database concepts. Central to this course is the mastery of Structured Query Language (SQL), the standard language for interacting with relational databases. You will gain hands-on experience in writing and optimizing SQL queries, from basic to advanced levels, using a variety of open-source database platforms. Additionally, the course will introduce you to essential topics in database architecture and NoSQL databases. By the end of the course, you will be proficient in creating, modifying, retrieving, and analyzing data, preparing you with the essential skills needed to drive data-informed decisions in any professional setting.
+Databases are the backbone of the digital world, storing most global data and enabling the seamless operation of most businesses. In this course, you will learn to design and visually represent database structures and develop practical skills in implementing these designs using relational database concepts. Central to this course is the mastery of Structured Query Language (SQL), the standard language for interacting with relational databases. You will gain hands-on experience in writing and optimizing SQL queries, from basic to advanced levels, using a variety of open-source database platforms. Additionally, the course will introduce you to essential topics in database architecture and NoSQL databases. By the end of the course, you will be proficient in creating, modifying, retrieving, and analyzing data, preparing you with the essential skills needed to drive data-informed decisions in any professional setting.
 
 ### Course Details
 
@@ -14,7 +14,7 @@ Databases are the backbone of the digital world, storing the vast majority of gl
 
 ### Instructor Information
 **Instructor**: {{ instructor_info().instructor }}  
-**Office Hours**: {{ course_info().office_hours }} 
+**Office Hours**: Click [here]({{ instructor_info().student_hours }}) to schedule an online Zoom appointment.
 
 ### Course Learning Outcomes
 At the conclusion of the course, you should be able to:
@@ -27,9 +27,13 @@ At the conclusion of the course, you should be able to:
 
 ## COURSE MATERIALS
 
-### Required Textbook
+### Textbook
 
-The textbook **Database Systems: Design, Implementation, & Management**, by Carlos Coronel, Steven Morris (14th Edition | Copyright 2023) ISBN: 978-0357673034 is **OPTIONAL** for this course and can be purchased on Amazon [here](https://a.co/d/14Q471v).
+**Database Systems: Design, Implementation, & Management** (14th Edition)  
+by Carlos Coronel and Steven Morris  
+Copyright © 2023 | ISBN 978-0357673034
+
+This textbook is highly recommended but not required for the course. It provides comprehensive coverage of database design concepts, implementation techniques, and management practices. The book is available for purchase from most major retailers, including [Amazon](https://a.co/d/14Q471v).
 
 ### Course Resources
 
@@ -40,7 +44,7 @@ The textbook **Database Systems: Design, Implementation, & Management**, by Carl
 
 ### Required Technology
 
-This is a data management class and we will be utilizing a variety of software and apps throughout the course. All demo and homework resources will mention the technology requirements but below is a list of software that you will need to install on your computer.
+This is a data management class, and we will be utilizing a variety of software and apps throughout the course. All demo and homework resources will mention the technology requirements but below is a list of software that you will need to install on your computer.
 
 * A plain text editor such as VS Code
 * DB Browser for SQLite
@@ -56,13 +60,13 @@ This is a data management class and we will be utilizing a variety of software a
 |:----------------------------------------------|:-----------------|:-------------------|
 | Homework Assignments (**HW**)                 |               35 |    175 (35 each)   | 
 | Class Participation Assignments (**CP**)      |               15 |    75 (15 each)    |
-| Conceptual Lecture/Reading Quizzes            |               15 |    75 (15 each)    |
+| Conceptual Lecture Quizzes                    |               15 |    75 (15 each)    |
 | Group Project (**GP**)                        |               15 |    75 (25 each)    |
 | Final Exam                                    |               20 |    100             |
 
 ### Grading Scale
 
-| Final Grade    | % of 435 Points |
+| Final Grade    | % of 500 Points |
 |:---------------|:----------------|
 | A              | >=93%           |
 | A-             | 90-92.99%       |
@@ -96,26 +100,26 @@ There are 5 class participation assignments that are designed to help you learn 
 There are 3 group project assignments that you will be able to collaborate with 3-5 classmates on a real-world dataset to apply all skills learned in the course, including ER modeling, database design, normalization and data loading, and SQL query construction.
 
 ### Final Exam
-The final exam is open-note and completed in class by yourself with no collaboration/communication with any other students and AI tools. You will **NOT** be able to use a computer during part 1 of the final exam. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.  
+The final exam is open-note and completed online by yourself with no collaboration/communication with any other students and AI tools. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from completing the exam on the designated date.  
 
 ### Late Submission Policy
 There is a 24-hour grace period for all **homework** assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. This policy is intended to be a safety net in case you experience any difficulties submitting your assignment on time. Do not view the grace period as the true due date for the assignment. If you miss an assignment due date, it is likely that you are not managing your time effectively and will need to adjust your planning and study habits. Please note that any excuse for not submitting assignments on time will not be accepted **AFTER** the 24-hour grace period. If you have extenuating circumstances, you must contact the professor **BEFORE** the assignment due date.
 
 ### Regrade Policy
-The intent of the regrade policy is protect students from serious issues in grading. Email the professor within **72 hours** and provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours). Make sure you confer with your team first on any group completed project and submit one regrade request after your team comes to a consensus.
+The intent of the regrade policy is to protect students from serious issues in grading. Email the professor within **72 hours** and provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours). Make sure you confer with your team first on any group completed project and submit one regrade request after your team comes to a consensus.
 
-## SCHOOL RESOURCES
+## COURSE POLICY STATEMENTS
 
 ### Academic Honesty Statement
 
-USD’s policy on academic integrity is expressly integrated into this course. (Please consult https://www.sandiego.edu/conduct/the-code/rules-of-conduct.php to review this policy.) Any deviation from the standards of this policy may result in a grade of “F” for the course. Because most of the work in this course must be your own, any unauthorized assistance will be considered a violation of the academic integrity policy. If you have questions about the propriety of your work or other participants’ conduct concerning this course, I am readily available to offer an interpretation of this policy.
+USD’s policy on academic integrity is expressly integrated into this course. Please consult the [Rules of Conduct page](https://www.sandiego.edu/conduct/the-code/rules-of-conduct.php) to review this policy. Any deviation from the standards of this policy may result in a grade of “F” for the course. Because most of the work in this course must be your own, any unauthorized assistance will be considered a violation of the academic integrity policy. If you have questions about the propriety of your work or other participants’ conduct concerning this course, I am readily available to offer an interpretation of this policy.
 
 ### Disability Statement
 
-It is University of San Diego policy not to discriminate against qualified students with a documented disability in its educational programs, activities or services. If you have a disability-related need for accommodations in this class, contact the Student Affairs office for assistance.
+It is University of San Diego policy not to discriminate against qualified students with a documented disability in its educational programs, activities or services. If you have a disability-related need for accommodation(s) in this class, contact the Student Affairs office for assistance.
 
 ### General Student Conduct
-The University of San Diego School of Business expects its students to conduct themselves in a professional manner at all times. Its students are generally individuals who are preparing for career employment. An integral part of their career and professional development is the expectation that they will conduct themselves during the educational processes in the same manner as will be expected in an employment situation. The University of San Diego Student Code of Rights and Responsibilities is published online at [The Student Code of Rights and Responsibilities](https://www.sandiego.edu/conduct/the-code/).
+The University of San Diego School of Business expects its students to always conduct themselves in a professional manner. Its students are generally individuals who are preparing for career employment. An integral part of their career and professional development is the expectation that they will conduct themselves during the educational processes in the same manner as will be expected in an employment situation. The University of San Diego Student Code of Rights and Responsibilities is published online at [The Student Code of Rights and Responsibilities](https://www.sandiego.edu/conduct/the-code/).
 
 ### Food Insecurity & Pantry
 The goal of [Toreros Against Hunger](https://www.meetatusd.com/toreros-against-hunger) at the University of San Diego is to serve as occasional food relief for University of San Diego students experiencing food insecurity while actively decreasing the amount of food going to waste on campus.
@@ -123,9 +127,9 @@ The goal of [Toreros Against Hunger](https://www.meetatusd.com/toreros-against-h
 Food insecurity broadly defined is “the state of being without reliable access to sufficient quantity of affordable, nutritious food.” Indicators of food insecurity include skipping meals and/or cutting the size of meals due to lack of financial resources, experiencing hunger but not eating and/or the inability to afford balanced meals.
 
 ### Counseling Center
-The [Counseling Center](https://www.sandiego.edu/counseling-center/) strive's to facilitate students' personal growth and enhance their academic success through accessible, culturally congruent clinical and outreach services. We work in collaboration with other Wellness and university departments and community partners.
+The [Counseling Center](https://www.sandiego.edu/counseling-center/) strives to facilitate students' personal growth and enhance their academic success through accessible, culturally congruent clinical and outreach services. We work in collaboration with other Wellness and university departments and community partners.
 
-A counselor-on call is available to consult about after-hours urgent psychological concerns at all times. The counselor-on call can be reached by calling 619-260-4655 (24 hours a day, 7 days a week). Please contact the Department of Public Safety to access emergency services (x2222 on any campus telephone, otherwise call 619-260-2222).
+A counselor-on call is always available to consult about after-hours urgent psychological concerns. The counselor-on call can be reached by calling 619-260-4655 (24 hours a day, 7 days a week). Please contact the Department of Public Safety to access emergency services (x2222 on any campus telephone, otherwise call 619-260-2222).
 
 The 24-hour San Diego Access and Crisis Line (1-888-724-7240) also offers crisis intervention, information, and referrals.
 
@@ -134,6 +138,6 @@ The 24-hour San Diego Access and Crisis Line (1-888-724-7240) also offers crisis
 An online evaluation will be made available to you near the end of this course. Your timely and considered feedback is valuable to us and an important element of your learning experience.
 
 !!! Abstract "Notice"
-    This syllabus is subject to change based on the needs of the class; I will make sure to notify you through an announcement on Canvas.
+    This syllabus is subject to change based on the needs of the class; I will make sure to notify you in class and/or through a Canvas announcement.
 
 
