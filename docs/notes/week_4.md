@@ -15,6 +15,7 @@
   
 ### Task List
 
+- [x] **Complete** and **Submit** [Quiz 3]({{ content_links().Quiz_3 }})
 - [x] **Complete** and **Submit** [CP2 CRUD Operations]({{ content_links().CP2_CRUD_Operations }}) **by EOD**
 - [x] **Complete** and **Submit** [HW3 CRUD Operations]({{ content_links().HW3_CRUD_Operations }})
 

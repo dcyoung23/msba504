@@ -8,7 +8,7 @@
 
 ### Class Agenda
 
-- [Advanced SQL Slides]({{ content_links().Advanced_SQL_1 }}): Click [here]({{ content_links().Advanced_SQL_Slido }}) to join the Slido
+- [Advanced SQL 1 Slides]({{ content_links().Advanced_SQL_1 }})
 - In Class Time for [CP5 Transform and Load Data]({{ content_links().CP5_Transform_Load_Data }})
   
 ### Task List
