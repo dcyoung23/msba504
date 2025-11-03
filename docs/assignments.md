@@ -8,7 +8,7 @@
 | HW2_Create_ERD_Database  | ✅               | ✅                 | ❌                  | 💡 (Optional Up to 5)   | ✅                      | ✅                  |
 | HW3_CRUD_Operations      | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
 | HW4_Intermediate_SQL     | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
-| HW4_Advanced_SQL         | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
+| HW5_Advanced_SQL         | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
 | CP0_Autograder_Warmup    | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP1_Create_Database      | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP2_CRUD_Operations      | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
