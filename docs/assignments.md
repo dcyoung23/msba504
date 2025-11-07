@@ -21,7 +21,8 @@
 | Quiz_4                   | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  |
 | Quiz_5                   | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  |
 | Final_Exam_P1            | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  | 
-| Final_Exam_P2            | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ❌                  | 
+| Final_Exam_P2a           | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  | 
+| Final_Exam_P2b           | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  |
 | GP1_Create_ERD_Database  | ✅               | ✅                 | ❌                  | ✅ (Required 3 to 5)    | ✅                      | ✅                  |
 | GP2_Transform_Load_Data  | ✅               | ❌                 | ❌                  | ✅ (Required 3 to 5)    | ✅                      | ✅                  |
 | GP3_Hackathon            | ✅               | ❌                 | ❌                  | ✅ (Required 3 to 5)    | ✅                      | ✅                  |
