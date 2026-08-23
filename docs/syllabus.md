@@ -4,7 +4,7 @@
 ## COURSE OVERVIEW
 
 ### Course Description
-Databases are the backbone of the digital world, storing most global data and enabling the seamless operation of most businesses. In this course, you will learn to design and visually represent database structures and develop practical skills in implementing these designs using relational database concepts. Central to this course is the mastery of Structured Query Language (SQL), the standard language for interacting with relational databases. You will gain hands-on experience in writing and optimizing SQL queries, from basic to advanced levels, using a variety of open-source database platforms. Additionally, the course will introduce you to essential topics in database architecture and NoSQL databases. By the end of the course, you will be proficient in creating, modifying, retrieving, and analyzing data, preparing you with the essential skills needed to drive data-informed decisions in any professional setting.
+Databases are the backbone of the digital world, storing most global data and enabling the seamless operation of most businesses. In this course, you will learn to design and visually represent database structures and develop practical skills in implementing these designs using relational database concepts. Central to this course is the mastery of Structured Query Language (SQL), the standard language for interacting with relational databases. You will gain hands-on experience in writing and optimizing SQL queries, from basic to advanced levels, using a variety of open-source database platforms. Additionally, the course will explore advanced database concepts, including database architecture, cloud databases, business intelligence, and data warehousing. By the end of the course, you will be proficient in creating, modifying, retrieving, and analyzing data, preparing you with the essential skills needed to drive data-informed decisions in any professional setting.
 
 ### Course Details
 
@@ -13,8 +13,8 @@ Databases are the backbone of the digital world, storing most global data and en
 **Day/Time**: {{ course_info().days_times }}  
 
 ### Instructor Information
-**Instructor**: {{ instructor_info().instructor }}  
-**Office Hours**: Click [here]({{ instructor_info().student_hours }}) to schedule an online Zoom appointment.
+**Instructor**: <a href="{{ instructor_info().website }}" class="instructor-link">{{ instructor_info().instructor }}</a><br>
+**Office Hours**: {{ course_info().office_hours }} or click [here]({{ instructor_info().student_hours }}) to schedule an online Zoom appointment.
 
 ### Course Learning Outcomes
 At the conclusion of the course, you should be able to:
@@ -23,7 +23,7 @@ At the conclusion of the course, you should be able to:
 - Learn about conceptual and logical database design, indexes and normalization
 - Acquire foundational SQL and relational database system skills
 - Gain extensive hands-on practice writing intermediate to advanced level SQL queries
-- Introduce other database topics including database architecture, NoSQL database concepts, and Big Data
+- Introduce other database topics including database architecture, cloud databases, business intelligence, and data warehousing.
 
 ## COURSE MATERIALS
 
@@ -46,11 +46,11 @@ This textbook is highly recommended but not required for the course. It provides
 
 This is a data management class, and we will be utilizing a variety of software and apps throughout the course. All demo and homework resources will mention the technology requirements but below is a list of software that you will need to install on your computer.
 
-* A plain text editor such as VS Code
-* DB Browser for SQLite
-* DBeaver Community Edition **OPTIONAL**
-* MySQL Workbench 8.0
-* Anaconda Distribution of Python and other tools
+- A plain text editor such as VS Code
+- DB Browser for SQLite
+- DBeaver Community Edition **OPTIONAL**
+- MySQL Workbench 8.0
+- Anaconda Distribution of Python and other tools
 
 <div style="page-break-after: always;"></div>
 
@@ -60,11 +60,10 @@ This is a data management class, and we will be utilizing a variety of software 
 
 | Assignment                                    | % of Total Grade |   500 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| Homework Assignments (**HW**)                 |               35 |    175 (35 each)   | 
-| Class Participation Assignments (**CP**)      |               15 |    75 (15 each)    |
-| Conceptual Lecture Quizzes                    |               15 |    75 (15 each)    |
-| Group Project (**GP**)                        |               15 |    75 (25 each)    |
-| Final Exam                                    |               20 |    100             |
+| Homework Assignments (**HW**)                 |               30 |    150             | 
+| Class Participation Assignments (**CP**)      |               15 |    75              |
+| Group Project (**GP**)                        |               25 |    125             |
+| Exams                                         |               30 |    150             |
 
 ### Grading Scale
 
@@ -72,30 +71,26 @@ This is a data management class, and we will be utilizing a variety of software 
 |:---------------|:----------------|
 | A              | >=93%           |
 | A-             | 90-92.99%       |
-| B+             | 88-89.99%       |
-| B              | 83-87.99%       |
+| B+             | 87-89.99%       |
+| B              | 83-86.99%       |
 | B-             | 80-82.99%       |
-| C+             | 78-79.99%       |
-| C              | 73-77.99%       |
+| C+             | 77-79.99%       |
+| C              | 73-76.99%       |
 | C-             | 70-72.99%       |
-| D+             | 68-69.99%       |
-| D              | 63-67.99%       |
+| D+             | 67-69.99%       |
+| D              | 63-66.99%       |
 | D-             | 60-62.99%       |
 | F              | <60%            |
 
 <div style="page-break-after: always;"></div>
 
 ### Homework
-There are 5 homework assignments consisting of problem-solving and SQL based programming assignments. While you are allowed to use AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
+There are 5 homework assignments consisting of problem-solving and SQL based programming assignments. While you are allowed to use AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success.
 
-### Quizzes
-There are 5 quizzes that focus primarily on the conceptual materials covered in the lectures and textbook. The format will vary between True/False, multiple choice, matching and fill in the blank style questions. Quizzes should be straightforward if you are attending class and keeping up with the material. At least 5 out of the 15 questions for each quiz are selected from the lecture Slido quizzes. Quizzes are just a way to make sure you keep up with studying and do not fall too far behind as this class really builds on each previous week. Quizzes are completed on Canvas and by yourself with no collaboration/communication with any other students or AI tools.
-
-!!! tip
-    Use homework and quiz assignments as an opportunity to practice and solidify your understanding, so you’re well-prepared for exam-style questions.
+There is a 24-hour grace period for all **homework** assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. 
 
 ### Class Participation
-There are 5 class participation assignments that are designed to help you learn by doing, first by following along with instructor demos, then by immediately applying the same concepts on your own using materials from the current lecture/demo materials. Each participation assignment is designed to be finished during class, but late submission is permitted by the end of the lecture day.
+There are 5 class participation/lab assignments that are designed to help you learn by doing, first by following along with instructor demos, then by immediately applying the same concepts on your own using materials from the current lecture/demo materials. Each participation assignment is designed to be finished during class, but late submission is permitted by the end of the lecture day. **Late submissions** for class participation assignments will **NOT** be accepted.
 
 !!! note "Class Attendance"
     The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve hands-on practice with database and SQL tools. Regular attendance is very important to your success in this course. 
@@ -103,13 +98,15 @@ There are 5 class participation assignments that are designed to help you learn 
 <div style="page-break-after: always;"></div>
 
 ### Group Project
-There are 3 group project assignments that you will be able to collaborate with 3-5 classmates on a real-world dataset to apply all skills learned in the course, including ER modeling, database design, normalization and data loading, and SQL query construction.
+There are 5 group project assignments that you will be able to collaborate with 3-5 classmates on a real-world dataset to apply all skills learned in the course, including ER modeling, database design, normalization and data loading, SQL query data exploration, and data storytelling. **Late submissions** for group project assignments will **NOT** be accepted.
 
-### Final Exam
-The final exam is open-note and completed online by yourself with no collaboration/communication with any other students and AI tools. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from completing the exam on the designated date.  
+### Exams
+Both exams are completed by yourself with no collaboration/communication with any other students. Exams will be taken online remotely and open-computer and open-notes, and will be timed at 2 hours and 50 minutes starting at 4:00PM on the regular class meeting day. There will be **NO** in person class session on exam dates. The use of AI tools or any other unauthorized assistance is prohibited and LockDown Browser will be required. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.
 
-### Late Submission Policy
-There is a 24-hour grace period for all **homework** assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. This policy is intended to be a safety net in case you experience any difficulties submitting your assignment on time. Do not view the grace period as the true due date for the assignment. If you miss an assignment due date, it is likely that you are not managing your time effectively and will need to adjust your planning and study habits. Please note that any excuse for not submitting assignments on time will not be accepted **AFTER** the 24-hour grace period. If you have extenuating circumstances, you must contact the professor **BEFORE** the assignment due date.
+### Bonus Points
+Slido lecture quizzes are used throughout the semester to encourage participation and engagement during class. The student who finishes 1st on the Slido leaderboard at the end of each lecture will earn **5 bonus points** toward the Class Participation grade.
+
+Students may earn the 5-point 1st-place bonus a maximum of **two times** during the semester for a total of **10 bonus points**. After reaching this limit, students are still encouraged to compete and may earn 1 additional bonus point for each subsequent 1st-place finish, up to a maximum of **5 additional bonus points** for up to a total of **15 bonus points**. When a student who has already reached the two-win limit finishes 1st, the 5-point bonus will be awarded to the next-highest student on the leaderboard who has not also yet reached the two-win limit.
 
 ### Regrade Policy
 The intent of the regrade policy is to protect students from serious issues in grading. Email the professor within **72 hours** and provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours). Make sure you confer with your team first on any group completed project and submit one regrade request after your team comes to a consensus.

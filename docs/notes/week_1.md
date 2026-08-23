@@ -3,24 +3,17 @@
     *After today's class, you should be able to:*
     
     - Understand database fundamentals, including history, key roles and definitions, challenges of data management, differences between small and large-scale systems, and an introduction to relational databases, SQL, and the phases of database design.
-    - Understand database design within the SDLC, focusing on ER modeling and diagramming (Chen and Crow’s Foot notation), and develop skills to analyze business requirements and represent entities, attributes, and relationships in an ERD.
 
 ### Class Agenda
 
-- [Introduction Slides]({{ content_links().Introduction }})
-- Course Website Tour
-- `[5 min]` Break **Optional**
-- [ER Models Slides]({{ content_links().ER_Models }})
-- [Create a Conceptual ERD Demo]({{content_links().Create_Conceptual_ERD | url }})
+- [Introduction Slides]({{ content_links().Introduction }}) - [Join Slido]({{ content_links().Introduction_Slido }})
 
 ### Task List
 
-- [ ] **Optional** Reading: Chapters 1, 2, 4
-- [x] **Submit** names for Assignment groups on Canvas
-- [x] **Complete** and **Submit** [Quiz 1]({{ content_links().Quiz_1 }})
-- [x] **Complete** and **Submit** [HW1 Create ERD]({{ content_links().HW1_Create_ERD }})
+- [ ] **Optional** Reading: Chapters 1, 2
+- [x] **Install** [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+- [x] **Install** [MySQL Workbench](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
  
 ### Additional Resources
 
-[Chen Notation](https://vertabelo.com/blog/chen-erd-notation/)  
-[Crow's Foot Notation](https://vertabelo.com/blog/crow-s-foot-notation/)
+[Database Systems: Design, Implementation, & Management Textbook](https://a.co/d/14Q471v)  
