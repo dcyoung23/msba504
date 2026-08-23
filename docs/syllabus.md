@@ -23,7 +23,7 @@ At the conclusion of the course, you should be able to:
 - Learn about conceptual and logical database design, indexes and normalization
 - Acquire foundational SQL and relational database system skills
 - Gain extensive hands-on practice writing intermediate to advanced level SQL queries
-- Introduce other database topics including database architecture, cloud databases, business intelligence, and data warehousing.
+- Introduce other database topics including database architecture, cloud databases, business intelligence, and data warehousing
 
 ## COURSE MATERIALS
 
