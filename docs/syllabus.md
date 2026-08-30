@@ -90,7 +90,7 @@ There are 5 homework assignments consisting of problem-solving and SQL based pro
 There is a 24-hour grace period for all **homework** assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. 
 
 ### Class Participation
-There are 5 class participation/lab assignments that are designed to help you learn by doing, first by following along with instructor demos, then by immediately applying the same concepts on your own using materials from the current lecture/demo materials. Each participation assignment is designed to be finished during class, but late submission is permitted by the end of the lecture day. **Late submissions** for class participation assignments will **NOT** be accepted.
+There are 8 class participation/lab assignments that are designed to help you learn by doing, first by following along with instructor demos, then by immediately applying the same concepts on your own using materials from the current lecture/demo materials. Each participation assignment is designed to be finished during class, but late submission is permitted by the end of the lecture day. **Late submissions** for class participation assignments will **NOT** be accepted.
 
 !!! note "Class Attendance"
     The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve hands-on practice with database and SQL tools. Regular attendance is very important to your success in this course. 
@@ -101,7 +101,7 @@ There are 5 class participation/lab assignments that are designed to help you le
 There are 5 group project assignments that you will be able to collaborate with 3-5 classmates on a real-world dataset to apply all skills learned in the course, including ER modeling, database design, normalization and data loading, SQL query data exploration, and data storytelling. **Late submissions** for group project assignments will **NOT** be accepted.
 
 ### Exams
-Both exams are completed by yourself with no collaboration/communication with any other students. Exams will be taken online remotely and open-computer and open-notes, and will be timed at 2 hours and 50 minutes starting at 4:00PM on the regular class meeting day. There will be **NO** in person class session on exam dates. The use of AI tools or any other unauthorized assistance is prohibited and LockDown Browser will be required. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.
+Both exams are completed by yourself with no collaboration/communication with any other students. Exams will be taken online remotely and open-computer and open-notes, and will be timed at 2 hours and 50 minutes starting at 4:00PM on the regular class meeting day. There will be **NO** in person class session on exam dates. The use of AI tools or any other unauthorized assistance is prohibited and LockDown Browser will be required for the P2 question-based exams completed on Canvas. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.
 
 ### Bonus Points
 Slido lecture quizzes are used throughout the semester to encourage participation and engagement during class. The student who finishes 1st on the Slido leaderboard at the end of each lecture will earn **5 bonus points** toward the Class Participation grade.

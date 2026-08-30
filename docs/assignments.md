@@ -18,8 +18,9 @@
 | CP6_Intermediate_SQL_2       | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP7_Transform_Load_Data      | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP8_Advanced_SQL             | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
-| Exam_1                       | ❌               | ✅                 | ✅                  | ❌                      | ❌                      | ❌                  | 
-| Exam_2_P1                    | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  | 
+| Exam_1_P1                    | ❌               | ✅                 | ❌                  | ❌                      | ❌                      | ❌  
+| Exam_1_P2                    | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  | 
+| Exam_2_P1                    | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ❌                  | 
 | Exam_2_P2                    | ❌               | ❌                 | ✅                  | ❌                      | ❌                      | ❌                  |
 | GP1_ERD_Submission           | ❌               | ✅                 | ❌                  | ✅ (Required 3 to 5)    | ✅                      | ✅                  |
 | GP1_Create_Database          | ✅               | ❌                 | ❌                  | ✅ (Required 3 to 5)    | ✅                      | ✅                  |
