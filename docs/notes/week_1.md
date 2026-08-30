@@ -6,7 +6,7 @@
 
 ### Class Agenda
 
-- [Introduction Slides]({{ content_links().Introduction }}) - [Join Slido]({{ content_links().Introduction_Slido }})
+- [Introduction Slides]({{ content_links().Introduction }}) - [Click here to join Slido]({{ content_links().Introduction_Slido }})
 
 ### Task List
 
