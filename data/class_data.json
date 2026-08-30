@@ -1,0 +1,25 @@
+{
+  "course":  {
+            "code": "MSBA 504",
+            "title": "Data Management",
+            "school": "University of San Diego",
+            "term": "Fall 2026",
+            "units": "3",
+            "location": "KCBE-328",
+            "days_times": "Tue 4:00PM - 6:50PM",
+            "dates": "8-Sep-2026 - 15-Dec-2026",
+            "office_hours": "Tue 3:30-4:00PM in KCBE-218",
+            "canvas": "https://sandiego.instructure.com/courses/29223",
+            "gradescope": "https://www.gradescope.com/courses/1332104"
+        },
+    "instructor": {
+            "instructor": "Chris Young, MBA",
+            "title": "Adjunct Faculty",
+            "website": "https://www.linkedin.com/in/dcyoung23/",
+            "student_hours": "https://calendly.com/professor-cyoung/student-hours"
+        },
+    "content": {
+            "Introduction_Slido": "https://app.sli.do/event/ee1sYapQJQ36pWvLfFt9TM",
+            "Introduction": "https://drive.google.com/file/d/1nEEC6uUW1iQELCMsOBMB-YIhqqaFfGqG/view?usp=drive_link"
+        }
+    }
