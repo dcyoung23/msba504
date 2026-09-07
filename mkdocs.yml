@@ -15,9 +15,9 @@ nav:
     #- Week 6 - Intermediate SQL 2: notes/week_6.md
     #- Week 7 - Advanced SQL 1: notes/week_7.md
     #- Week 8 - Advanced SQL 2: notes/week_8.md
-  - Resources:
-    - Demos:
-      - Create Conceptual ERD: demos/01_create_conceptual_erd.md
+  - Resources: resources.md
+    #- Demos:
+      #- Create Conceptual ERD: demos/01_create_conceptual_erd.md
       #- Implement Conceptual ERD: demos/02_implement_erd.md
       #- Create Database and ERD: demos/03_create_database_erd.md
       #- CRUD Operations: demos/04_crud_operations.md
