@@ -10,7 +10,7 @@
 | HW3_CRUD_Operations          | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
 | HW4_Intermediate_SQL         | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
 | HW5_Advanced_SQL             | ✅               | ❌                 | ❌                  | ❌                      | ❌                      | ✅                  |
-| CP1_Group_Formation          | ❌               | ✅                 | ❌                  | ✅ (Required 3 to 5)    | ❌                      | ✅                  |
+| CP1_ERD_Brainstorm           | ❌               | ✅                 | ❌                  | ✅ (Required 3 to 5)    | ❌                      | ✅                  |
 | CP2_Implement_Conceptual_ERD | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP3_Create_Database          | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |
 | CP4_CRUD_Operations          | ✅               | ❌                 | ❌                  | 💡 (Optional Up to 5)   | ❌                      | ✅                  |

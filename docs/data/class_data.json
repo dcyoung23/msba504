@@ -19,6 +19,10 @@
             "student_hours": "https://calendly.com/professor-cyoung/student-hours"
         },
     "content": {
-            "Introduction": "https://drive.google.com/file/d/1Ye6VRGfhQ3tLVfULJx2DPP3k3ZA5XVzz/view?usp=sharing"
+            "Introduction": "https://drive.google.com/file/d/1Ye6VRGfhQ3tLVfULJx2DPP3k3ZA5XVzz/view?usp=sharing",
+            "ER_Models": "https://drive.google.com/file/d/1bP0KBNEUo-7jbns18n3BzGutV3oCf3On/view?usp=sharing",
+            "Create_Conceptual_ERD": "demos/01_create_conceptual_erd/",
+            "CP1_ERD_Brainstorm": "431363",
+            "HW1_Create_ERD": "428988"
         }
     }
