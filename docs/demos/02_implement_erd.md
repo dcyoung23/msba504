@@ -230,10 +230,11 @@ ORDER BY
 !!! note
     You may wonder why `notnull` is enclosed in double quotes (""). In SQL, `NOTNULL` is a reserved keyword, and without the quotes, the query will result in an error. You can safely enclose every column in double quotes if you would like.
 
-Here is the full code for question 1 to create the `course` table.
+##### Question 1
+
+Copy/paste the query below for `course` in the `QUESTION 1` section.
 
 ``` sql
--- QUESTION 1
 CREATE TABLE course (
     course_num integer NOT NULL,
     title text NOT NULL,
@@ -257,10 +258,11 @@ ORDER BY
     
     * Each query MUST have a `;` in between each statement for each question in your `cp2_submission.sql` file. Pay close attention to the `ORDER BY` requirements since the row order must match exactly!
 
-Let's now add in the queries for the `class_schedule` and `student` tables. You will notice the formatting is similar with the `CREATE TABLE` statement followed by the `pragma_table_info()` query.
+##### Question 2
+
+Let's now copy/paste the query for `class_schedule` in the `QUESTION 2` section. You will notice the formatting is similar with the `CREATE TABLE` statement followed by the `pragma_table_info()` query.
 
 ``` sql
--- QUESTION 2
 CREATE TABLE class_schedule (
 section_num integer NOT NULL, 
 course_num integer NOT NULL, 
@@ -279,8 +281,12 @@ SELECT
 FROM pragma_table_info('class_schedule')
 ORDER BY
     name;  
+```
+##### Question 3
 
--- QUESTION 3
+Next, copy/paste the query for `student` in the `QUESTION 3` section.
+
+``` sql
 /*
 Students can use normal SQL comments inside an answer.
 The parser only treats standalone QUESTION delimiter lines as delimiters.
@@ -307,12 +313,13 @@ ORDER BY
 
 #### Weak Entity/Bridge Tables
 
-The implementation of weak entities and/or bridge tables to decompose M:N relationships require critical thinking and the structure of the `submission.sql` file could provide many clues on the correct logical design. Therefore, all other tables in the database will be graded in a single question with the output based on a custom database view in the Autograder.
+The implementation of weak entities and/or bridge tables to decompose M:N relationships require critical thinking and the structure of the `.sql` file could provide many clues on the correct logical design. Therefore, all other tables in the database will be graded in a single question with the output based on a custom database view in the Autograder.
 
-For the `university` database, we only have the one bridge table for the `student` to `class_schedule` M:N relationship so we will add that `CREATE TABLE` statement above the query that will validate all tables.
+##### Question 4
+
+For the `university` database, we only have the one bridge table for the `student` to `class_schedule` M:N relationship so we will copy/paste that `CREATE TABLE` statement above the query that will validate all tables in the `QUESTION 4` section.
 
 ``` sql
--- QUESTION 4
 CREATE TABLE enrollment (
     student_id integer NOT NULL, 
     section_num integer NOT NULL, 
@@ -334,10 +341,13 @@ ORDER BY
 
 #### Foreign Keys
 
-All foreign keys will be automatically evaluated and you only need to ensure that all tables in the prior questions have the proper foreign key design.
+All foreign keys will be automatically evaluated and you only need to ensure that all tables in the prior questions have the proper foreign key design. 
+
+##### Question 5
+
+For `CP2_Implement_Conceptual_ERD`, this query has already been provided for `QUESTION 5`.
 
 ``` sql
--- QUESTION 5
 SELECT
     fk_column,
     ref_column,
