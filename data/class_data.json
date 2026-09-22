@@ -1,0 +1,31 @@
+{
+  "course":  {
+            "code": "MSBA 504",
+            "title": "Data Management",
+            "school": "University of San Diego",
+            "term": "Fall 2026",
+            "units": "3",
+            "location": "KCBE-328",
+            "days_times": "Tue 4:00PM - 6:50PM",
+            "dates": "8-Sep-2026 - 15-Dec-2026",
+            "office_hours": "Tue 3:30-4:00PM in KCBE-218",
+            "canvas": "https://sandiego.instructure.com/courses/29223",
+            "gradescope": "https://www.gradescope.com/courses/1332104"
+        },
+    "instructor": {
+            "instructor": "Chris Young, MBA",
+            "title": "Adjunct Faculty",
+            "website": "https://www.linkedin.com/in/dcyoung23/",
+            "student_hours": "https://calendly.com/professor-cyoung/student-hours"
+        },
+    "content": {
+            "Introduction": "https://drive.google.com/file/d/1Ye6VRGfhQ3tLVfULJx2DPP3k3ZA5XVzz/view?usp=sharing",
+            "ER_Models": "https://drive.google.com/file/d/1bP0KBNEUo-7jbns18n3BzGutV3oCf3On/view?usp=sharing",
+            "Create_Conceptual_ERD": "demos/01_create_conceptual_erd/",
+            "CP1_ERD_Brainstorm": "431363",
+            "HW1_Create_ERD": "428988",
+            "Relational_Databases": "https://drive.google.com/file/d/1oU-hCJP4uLXUnPs4MuomUFkXW4zD3gS8/view?usp=sharing",
+            "Implement_Conceptual_ERD": "demos/02_implement_erd/",
+            "CP2_Implement_Conceptual_ERD": "428962"
+        }
+    }
