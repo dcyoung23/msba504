@@ -21,7 +21,7 @@ nav:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
       - Implement Conceptual ERD: demos/02_implement_erd.md
       - Create Database and ERD: demos/03_create_database_erd.md
-      #- CRUD Operations: demos/04_crud_operations.md
+      - CRUD Operations: demos/04_crud_operations.md
       #- Aggregating Data and JOINs: demos/05_aggregating_data_joins
       #- CASE and Custom JOINs: demos/06_case_custom_joins
       #- Subqueries, CTEs, and Window Functions: demos/08_subquery_cte_window_functions.md
