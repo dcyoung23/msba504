@@ -3,7 +3,7 @@
     *After today's class, you should be able to:*
     
     - Build a foundational understanding of SQL, covering ANSI standards, query formatting, how to construct basic statements, and the difference between the written order of a query and how it is actually executed.
-    - Learn to construct SQL queries to perform basic CRUD operations and introduce common operators and functions.
+    - Learn to construct SQL queries to perform basic CRUD operations and introduce common operators.
     - Gain hands-on experience performing CRUD operations on a real database.
 
 ### Class Agenda
