@@ -21,12 +21,11 @@ date,title,label,link
 2026-10-27,Intermediate_SQL_1,LECT
 2026-10-27,Aggregating_Data_JOINs,DEMO
 2026-10-27,CP5_Intermediate_SQL_1,PART
-2026-11-01,GP1_ERD_Submission,PROJ
-2026-11-01,GP1_Create_Database,PROJ
 2026-11-03,Intermediate_SQL_2,LECT
 2026-11-03,CASE_Custom_JOINs,DEMO
 2026-11-03,CP6_Intermediate_SQL_2,PART
 2026-11-08,HW4_Intermediate_SQL,HMWK
+2026-11-08,GP1_Create_Database_ERD,PROJ
 2026-11-10,Advanced_SQL_1,LECT
 2026-11-10,CP7_Transform_Load_Data,LAB
 2026-11-15,GP2_Transform_Load_Data,PROJ
