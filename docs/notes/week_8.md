@@ -21,6 +21,6 @@
 ### Additional Resources
 
 [Installing Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install)  
-[JupySQL User Guide](https://jupysql.ploomber.io/en/latest/quick-start.html)
+[JupySQL User Guide](https://jupysql.readthedocs.io/en/latest/quick-start.html)
 
 
