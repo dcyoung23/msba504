@@ -48,6 +48,7 @@
             "CASE_Custom_JOINs": "demos/06_case_custom_joins",
             "HW4_Intermediate_SQL": "467721",
             "CP7_Transform_Load_Data": "468778",
-            "GP2_Transform_Load_Data": "468814"
+            "GP2_Transform_Load_Data": "468814",
+            "Transform_Load_Data": "labs/07_transform_load_data"
         }
     }
