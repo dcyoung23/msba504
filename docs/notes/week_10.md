@@ -6,7 +6,7 @@
 
 ### Class Agenda
 
-- In Class Time for [CP7 Transform and Load Data Lab ]({{ content_links().CP7_Transform_Load_Data }})
+- In Class Time for [CP7 Transform and Load Data Lab]({{ content_links().CP7_Transform_Load_Data }})
   
 ### Task List
 
