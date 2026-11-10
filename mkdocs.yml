@@ -16,7 +16,8 @@ nav:
     - Week 8 - Intermediate SQL 1: notes/week_8.md
     - Week 9 - Intermediate SQL 2: notes/week_9.md
     - Week 10 - Transform Load Data Lab: notes/week_10.md
-    #- Week 8 - Advanced SQL 2: notes/week_8.md
+    #- Week 11 - Advanced SQL 2: notes/week_11.md
+    #- Week 12 - Advanced SQL 2: notes/week_12.md
   - Resources: #resources.md
     - Demos:
       - Create Conceptual ERD: demos/01_create_conceptual_erd.md
