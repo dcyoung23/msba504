@@ -49,6 +49,9 @@
             "HW4_Intermediate_SQL": "467721",
             "CP7_Transform_Load_Data": "468778",
             "GP2_Transform_Load_Data": "468814",
-            "Transform_Load_Data": "labs/07_transform_load_data"
-        }
+            "Transform_Load_Data": "labs/07_transform_load_data",
+            "Advanced_SQL_1": "https://drive.google.com/file/d/1GDTrCqM2cYK2LJ8ikd-CnxRz0kjwPnG_/view?usp=sharing",
+            "Subqueries_CTEs": "demos/08_subqueries_ctes",
+            "HW5_Advanced_SQL": "470107"
     }
+}

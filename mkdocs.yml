@@ -16,7 +16,7 @@ nav:
     - Week 8 - Intermediate SQL 1: notes/week_8.md
     - Week 9 - Intermediate SQL 2: notes/week_9.md
     - Week 10 - Transform Load Data Lab: notes/week_10.md
-    #- Week 11 - Advanced SQL 2: notes/week_11.md
+    - Week 11 - Advanced SQL 1: notes/week_11.md
     #- Week 12 - Advanced SQL 2: notes/week_12.md
   - Resources: #resources.md
     - Demos:
@@ -26,7 +26,7 @@ nav:
       - CRUD Operations: demos/04_crud_operations.md
       - Aggregating Data and JOINs: demos/05_aggregating_data_joins
       - CASE and Custom JOINs: demos/06_case_custom_joins
-      #- Subqueries, CTEs, and Window Functions: demos/08_subquery_cte_window_functions.md
+      - Subqueries and CTEs: demos/08_subqueries_ctes.md
     - Labs:
       - Transform and Load Data: labs/07_transform_load_data.md
 theme:
