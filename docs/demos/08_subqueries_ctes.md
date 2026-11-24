@@ -1,4 +1,4 @@
-# Subqueries, CTEs, and Window Functions
+# Subqueries and CTEs
 
 ## Overview
 In this demo, we will be using [DBeaver Community Edition](https://dbeaver.io/download/) to write some queries using the employee_small.db to demonstrate how to use subqueries and CTEs. Click [here](https://drive.google.com/file/d/1g1lfZEIL9hyTLIR143DdRzcMJY2DwSQM/view?usp=sharing) to download the starter `.sql` file for this demo.

@@ -52,6 +52,9 @@
             "Transform_Load_Data": "labs/07_transform_load_data",
             "Advanced_SQL_1": "https://drive.google.com/file/d/1GDTrCqM2cYK2LJ8ikd-CnxRz0kjwPnG_/view?usp=sharing",
             "Subqueries_CTEs": "demos/08_subqueries_ctes",
-            "HW5_Advanced_SQL": "470107"
+            "HW5_Advanced_SQL": "470107",
+            "Advanced_SQL_2": "https://drive.google.com/file/d/1GDTrCqM2cYK2LJ8ikd-CnxRz0kjwPnG_/view?usp=sharing",
+            "Window_Functions": "demos/09_window_functions",
+            "CP8_Advanced_SQL": "471117"
     }
 }
