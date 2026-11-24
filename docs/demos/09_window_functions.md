@@ -1,7 +1,7 @@
 # Window Functions
 
 ## Overview
-In this demo, we will continue using [DBeaver Community Edition](https://dbeaver.io/download/) to write some queries using the employee_small.db to demonstrate how to use subqueries, CTEs, and window functions to tackle some interesting questions. Click [here](https://drive.google.com/file/d/1g1lfZEIL9hyTLIR143DdRzcMJY2DwSQM/view?usp=sharing) to download the starter `.sql` file for this demo.
+In this demo, we will continue using [DBeaver Community Edition](https://dbeaver.io/download/) to write some queries using the employee_small.db to demonstrate how to use subqueries, CTEs, and window functions to tackle some interesting questions. Click [here](https://drive.google.com/file/d/1N763R7hJ_2-mOoeNuYmzTm2vqXxVjJJg/view?usp=sharing) to download the starter `.sql` file for this demo.
 
 In the Subqueries and CTEs demo, we approached the same question three different ways using:
 
